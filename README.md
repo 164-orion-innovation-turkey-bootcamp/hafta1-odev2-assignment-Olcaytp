@@ -9,3 +9,5 @@ Yatay, dikey veya çapraz bir şekilde x-x-x veya o-o-o 3lüsü oluşturan taraf
 (querySelector ile html elementlerine erişim sağlayabilirsiniz)
 (style, classList ile stillerle oynayabilirsiniz)
 (addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)
+
+Yukarıda açıklaması verilen Tic Tac Toe ödevinde istenilenler yapılmıştır.Açıklama satırları ile fonksiyonlar anlaşılır hale getirilmiştir.
